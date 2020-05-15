@@ -4,6 +4,11 @@ The knapsack problem (KP) is a classic NP-complete problem [(Kellerer et. al 200
 
 The files in this repository correspond to binary Knapsack problem instances with big sizes, which go from 50,000 items to 1,000,000. The filename shows the number of items and knapsack capacity, e.g. `kp100K-10K-1.txt`  is an instance with 100,000 items and a knapsack capacity equal to 10,000. These big KP instances were obtained with the generator described in [(Pisinger 1999)](#refereces), choosing the uncorrelated data instances type (no correlation between the weight and the profit of an item). 
 
+These instances were used in the article titled:
+
+> Carolina Salto, Gabriela Minetti, Enrique Alba, and Gabriel Luque Hadoop, **Spark and MPI: Big Optimization with Genetic Algorithms**, submitted to XXXX (May 2020)
+
+
 ## References
 
 (Kellerer et. al 2004) H. Kellerer, U. Pferschy, and D. Pisinger. Introduction to NP-Completeness of Knapsack Problems, pages 483–493. Springer Berlin Heidelberg, Berlin, Heidelberg, 2004.
