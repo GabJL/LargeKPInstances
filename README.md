@@ -6,7 +6,7 @@ The files in this repository correspond to binary Knapsack problem instances wit
 
 These instances were used in the article titled:
 
-> Carolina Salto, Gabriela Minetti, Enrique Alba, and Gabriel Luque **Hadoop, Spark and MPI: Big Optimization with Genetic Algorithms**, submitted to Soft Computing (2020)
+> Carolina Salto, Gabriela Minetti, Enrique Alba, and Gabriel Luque **Hadoop, Spark and MPI: Big Optimization with Genetic Algorithms**, Soft Computing (2023) [Link](https://link.springer.com/article/10.1007/s00500-023-08301-x)
 
 ## References
 
